@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.isu.cs2235.structures.impl.TrieTreeTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2019-12-03T23:32:19" hostname="Katie-PC" time="0.003">
+  <properties/>
+  <testcase name="testSearchNode" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testStartsWith_2" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.001"/>
+  <testcase name="testStartsWith_3" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testStartsWith_4" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testSearchNode_2" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testSearchNode_3" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testSearchNode_4" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testInsert_2" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testInsert_3" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.001"/>
+  <testcase name="testInsert_4" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testInsert" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testSearch_2" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testSearch_3" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testSearch" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <testcase name="testStartsWith" classname="edu.isu.cs2235.structures.impl.TrieTreeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

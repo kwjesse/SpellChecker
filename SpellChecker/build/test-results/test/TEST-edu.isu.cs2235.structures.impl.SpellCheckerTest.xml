@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.isu.cs2235.structures.impl.SpellCheckerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-12-03T23:32:19" hostname="Katie-PC" time="0.277">
+  <properties/>
+  <testcase name="editDistance1InsertionTest" classname="edu.isu.cs2235.structures.impl.SpellCheckerTest" time="0.003"/>
+  <testcase name="editDistance2ReplaceTwice" classname="edu.isu.cs2235.structures.impl.SpellCheckerTest" time="0.129"/>
+  <testcase name="editDistance1DeleteTest" classname="edu.isu.cs2235.structures.impl.SpellCheckerTest" time="0.0"/>
+  <testcase name="editDistance1TransposeTest" classname="edu.isu.cs2235.structures.impl.SpellCheckerTest" time="0.0"/>
+  <testcase name="editDistance2TransposeDelete" classname="edu.isu.cs2235.structures.impl.SpellCheckerTest" time="0.035"/>
+  <testcase name="editDistance2InsertTwice" classname="edu.isu.cs2235.structures.impl.SpellCheckerTest" time="0.108"/>
+  <testcase name="editDistance1ReplacementTest" classname="edu.isu.cs2235.structures.impl.SpellCheckerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
